@@ -142,7 +142,8 @@ Use GPU acceleration
 
 ## Author
 
-Mouna MOUHIB
+**Mouna MOUHIB**
+
 Embedded Systems & Digital Services Engineering Student
 Interested in IoT, AI, and Intelligent Surveillance Systems
 
